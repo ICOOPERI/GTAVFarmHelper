@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVHELPER", "WindowsFormsApp1\GTAVHELPER.csproj", "{D0D655DD-77AD-4D60-A014-7B6809B97B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = 
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D655DD-77AD-4D60-A014-7B6809B97B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D655DD-77AD-4D60-A014-7B6809B97B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D655DD-77AD-4D60-A014-7B6809B97B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D655DD-77AD-4D60-A014-7B6809B97B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {221070D3-FDD5-40CF-B406-72418A39793F}
+	EndGlobalSection
+EndGlobal

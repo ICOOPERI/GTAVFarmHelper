@@ -1,0 +1,25 @@
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Gta V helper by Cooper.exe.config
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Gta V helper by Cooper.exe.manifest
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Gta V helper by Cooper.application
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Gta V helper by Cooper.exe
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Gta V helper by Cooper.pdb
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\H.InputSimulator.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.AssemblyReference.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.exe.config
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormOverlay.resources
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormBG.resources
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeForm.resources
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.GenerateResource.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.CoreCompileInputs.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.CopyLocal.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.exe.manifest
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.application
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Up2Date
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.exe
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.pdb

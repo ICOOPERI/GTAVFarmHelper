@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\forms\\formoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\forms\\formoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\scripts\\keyboardchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\scripts\\keyboardchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\forms\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|solutionrelative:windowsformsapp1\\scripts\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GTAVHELPER||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D655DD-77AD-4D60-A014-7B6809B97B37}|WindowsFormsApp1\\GTAVHELPER.csproj|c:\\users\\csdes\\source\\repos\\windowsformsapp1\\windowsformsapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:17:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\FormOverlay.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\forms\\FormOverlay.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\FormOverlay.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\forms\\FormOverlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:17:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GTAVHELPER",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GTAVHELPER.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\GTAVHELPER.csproj",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\GTAVHELPER.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\GTAVHELPER.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-11T15:17:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\scripts\\Settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\scripts\\Settings.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\scripts\\Settings.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\scripts\\Settings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:12:31.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:10:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyboardChecker.cs",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\scripts\\KeyboardChecker.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\scripts\\KeyboardChecker.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\scripts\\KeyboardChecker.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\scripts\\KeyboardChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:06:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\forms\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\csdes\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\forms\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\forms\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:01:25.075Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
