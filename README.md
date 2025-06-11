@@ -3,7 +3,7 @@
 <h3 align="left">Основные возможности:</h3>
 В главном меню отображается тип подключения к интернету. Здесь же необходимо выбрать версию игры и назначить горячую клавишу для активации оверлея.
 
-  ![image](https://github.com/user-attachments/assets/f4fce608-b0f1-493c-9a70-db97cfdde8eb)
+![image](https://github.com/user-attachments/assets/dad5bb5e-3dda-4c90-81f0-1363d277b9d9)
 
 <h3 align="left">В самом оверлее доступны функции:</h3>
 
