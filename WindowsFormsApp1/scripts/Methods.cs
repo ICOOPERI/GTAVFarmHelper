@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
                 StandardOutputEncoding = Encoding.GetEncoding(65001)
             };
 
-            using (Process process = Process.Start(psi))
+            using (System.Diagnostics.Process process = System.Diagnostics.Process.Start(psi))
             {
                 string output = process.StandardOutput.ReadToEnd();
                 process.WaitForExit();
@@ -43,7 +43,7 @@ namespace WindowsFormsApp1
                 CreateNoWindow = true
             };
 
-            Process.Start(psi);
+            System.Diagnostics.Process.Start(psi);
 
             Message("Выключаем сеть");
         }
@@ -59,7 +59,7 @@ namespace WindowsFormsApp1
                 CreateNoWindow = true
             };
 
-            Process.Start(psi);
+            System.Diagnostics.Process.Start(psi);
             Message("Включаем сеть");
         }
 

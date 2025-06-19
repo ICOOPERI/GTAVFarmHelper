@@ -6,6 +6,7 @@ namespace WindowsFormsApp1
     internal static class Program
     {
         public static FormOverlay form1;
+        public static FormCrosshair crosshair;
         public static FormBG form_bg;
         public static WelcomeForm welcomeForm;
 
@@ -20,6 +21,7 @@ namespace WindowsFormsApp1
 
             welcomeForm = new WelcomeForm();
             form1 = new FormOverlay();
+            crosshair = new FormCrosshair();
             Application.Run(welcomeForm);
         }
     }

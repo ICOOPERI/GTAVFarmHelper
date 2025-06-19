@@ -38,6 +38,7 @@
             this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.dragPanel = new Guna.UI2.WinForms.Guna2Button();
             this.AntiAfkButton = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
             this.SuspendLayout();
             // 
             // guna2Button1
@@ -173,12 +174,28 @@
             this.AntiAfkButton.Text = "АнтиАфк";
             this.AntiAfkButton.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
+            // guna2Button5
+            // 
+            this.guna2Button5.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.guna2Button5.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.guna2Button5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.guna2Button5.Font = new System.Drawing.Font("Segoe UI Black", 11F, System.Drawing.FontStyle.Bold);
+            this.guna2Button5.ForeColor = System.Drawing.Color.White;
+            this.guna2Button5.Location = new System.Drawing.Point(496, 9);
+            this.guna2Button5.Name = "guna2Button5";
+            this.guna2Button5.Size = new System.Drawing.Size(30, 30);
+            this.guna2Button5.TabIndex = 13;
+            this.guna2Button5.Text = "+";
+            this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click_1);
+            // 
             // FormOverlay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(538, 228);
+            this.Controls.Add(this.guna2Button5);
             this.Controls.Add(this.guna2Button4);
             this.Controls.Add(this.AntiAfkButton);
             this.Controls.Add(this.dragPanel);
@@ -208,6 +225,7 @@
         private Guna.UI2.WinForms.Guna2Button guna2Button4;
         private Guna.UI2.WinForms.Guna2Button dragPanel;
         private Guna.UI2.WinForms.Guna2Button AntiAfkButton;
+        private Guna.UI2.WinForms.Guna2Button guna2Button5;
     }
 }
 

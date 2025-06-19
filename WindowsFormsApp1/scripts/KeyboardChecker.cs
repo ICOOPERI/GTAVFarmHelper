@@ -38,7 +38,8 @@ namespace GamesOverlay
                 else
                 {
                     MessageBox.Show("Выберите версию игры", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }                    
+                }
+                Debug.WriteLine(key);
             }
         }
 

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Threading;
@@ -229,6 +228,18 @@ namespace WindowsFormsApp1
                 Properties.Settings.Default.LastX = Location.X;
                 Properties.Settings.Default.LastY = Location.Y;
                 Properties.Settings.Default.Save();
+            }
+        }
+
+        private void guna2Button5_Click_1(object sender, EventArgs e)
+        {
+            if (Program.crosshair.Visible)
+            {
+                Program.crosshair.Hide();
+            }
+            else
+            {
+                Program.crosshair.Show();
             }
         }
     }

@@ -49,7 +49,8 @@ namespace WindowsFormsApp1
             get
             {
                 var cp = base.CreateParams;
-                cp.ExStyle |= 0x80020;
+                //cp.ExStyle |= 0x80020;
+                cp.ExStyle |= 0x80; // WS_EX_TOOLWINDOW
                 return cp;
             }
         }

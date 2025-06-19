@@ -16,10 +16,16 @@ C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeForm.resources
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.GenerateResource.cache
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.CoreCompileInputs.cache
-C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.CopyLocal.cache
-C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.RuntimeCopyLocal.cache
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.exe.manifest
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.application
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Up2Date
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.exe
 C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gta V helper by Cooper.pdb
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormCrosshair.resources
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GameOverlay.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Process.NET.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpDX.DXGI.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.CopyLocal.cache
+C:\Users\csdes\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GTAVHELPER.csproj.Fody.RuntimeCopyLocal.cache

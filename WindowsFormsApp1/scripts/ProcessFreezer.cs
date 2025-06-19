@@ -24,7 +24,7 @@ namespace GamesOverlay
 
         public static async Task FreezeProcess(string processName, int durationSeconds)
         {
-            var processes = Process.GetProcessesByName(processName);
+            var processes = System.Diagnostics.Process.GetProcessesByName(processName);
             if (processes.Length == 0)
             {
                 Methods.Message($"Процесс {processName} не найден");

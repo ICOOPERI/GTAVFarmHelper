@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gta V helper by Cooper.exe" size="1055632">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gta V helper by Cooper.exe" size="1824144">
       <assemblyIdentity name="Gta V helper by Cooper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PWMQVbdLXIuPyz3vcqvlAWejlkeRnqGlZxBMx/QslLI=</dsig:DigestValue>
+        <dsig:DigestValue>WevQCPgUogavVdXdR1UcKg08evK0UUSjPmk2/21GdIA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
